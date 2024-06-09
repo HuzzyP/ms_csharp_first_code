@@ -11,6 +11,7 @@ namespace ms_csharp_first_code
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+            Console.Write("Hello");
         }
     }
 }
