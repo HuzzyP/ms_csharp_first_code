@@ -1,0 +1,7 @@
+C:\Users\HuzzyBoii\source\repos\ms_csharp_first_code\ms_csharp_first_code\bin\Debug\ms_csharp_first_code.exe.config
+C:\Users\HuzzyBoii\source\repos\ms_csharp_first_code\ms_csharp_first_code\bin\Debug\ms_csharp_first_code.exe
+C:\Users\HuzzyBoii\source\repos\ms_csharp_first_code\ms_csharp_first_code\bin\Debug\ms_csharp_first_code.pdb
+C:\Users\HuzzyBoii\source\repos\ms_csharp_first_code\ms_csharp_first_code\obj\Debug\ms_csharp_first_code.csproj.AssemblyReference.cache
+C:\Users\HuzzyBoii\source\repos\ms_csharp_first_code\ms_csharp_first_code\obj\Debug\ms_csharp_first_code.csproj.CoreCompileInputs.cache
+C:\Users\HuzzyBoii\source\repos\ms_csharp_first_code\ms_csharp_first_code\obj\Debug\ms_csharp_first_code.exe
+C:\Users\HuzzyBoii\source\repos\ms_csharp_first_code\ms_csharp_first_code\obj\Debug\ms_csharp_first_code.pdb
